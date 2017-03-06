@@ -4,6 +4,7 @@ Collection of processing sketches to create a photo-mosaics
 ##TODOs
 - Improve colour distance score calculation
 - Reduce redundancy between scripts
+- Uneven tile sizes for "cooler" feel to tiling
 
 ## Usage:
 Modify the first few lines of the sketch before running
