@@ -5,7 +5,7 @@ String mosaicFile = "";
 //Final file name
 String finalFileName = "xyz.png";
 //Pixelation factor
-int pixlFactor = 10;
+int pixlFactor = 30;
 
 /*
 * A sketch to generate RGB normalized scores for images in a folder, rank them into 1000 different categories for scores.
@@ -20,7 +20,7 @@ PImage[] imageForRGBScore = new PImage[1000];
 int w,h;
 
 void setup(){
-  size(5760, 3840);
+  size(1280, 834);
   smooth();
   rectMode(CENTER);
   
