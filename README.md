@@ -1,6 +1,10 @@
 # Mosake
 Collection of processing sketches to create a photo-mosaics
 
+##TODOs
+- Improve colour distance score calculation
+- Reduce redundancy between scripts
+
 ## Usage:
 Modify the first few lines of the sketch before running
 ```
