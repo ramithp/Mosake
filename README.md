@@ -1,7 +1,7 @@
 # Mosake
 Collection of processing sketches to create a photo-mosaics
 
-##TODOs
+## TODOs:
 - Improve colour distance score calculation
 - Reduce redundancy between scripts
 - Uneven tile sizes for "cooler" feel to tiling
@@ -31,3 +31,6 @@ Hit run and wait. :)
 
 ## Troubleshooting:
 Out of memory: Use fewer images/give processing more memory via preferences.
+
+## License
+[MIT](https://github.com/Ra41P/Mosake/blob/master/LICENSE)
