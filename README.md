@@ -1,5 +1,5 @@
 # Mosake
-Collection of processing sketches to create a photo-mosaics
+Collection of processing sketches to create photo-mosaics
 
 ## TODOs:
 - Improve colour distance score calculation
